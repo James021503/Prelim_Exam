@@ -1,0 +1,60 @@
+header{
+    border: 1px solid black;
+    font-size: 50px;
+    color: white;
+    padding: 70px;
+    text-align: center;
+    background-color: darkolivegreen;
+}
+nav ul{
+    text-align: center;
+    background-color: khaki;
+    padding: 20px; 
+    color: black;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 1px solid black;
+
+}
+
+nav li{
+    display: inline;
+    padding: 8px;
+    text-align: center;
+    
+}
+nav li a{
+    text-decoration: none;
+    padding: 10px;
+}
+h2{
+    background-color:darkolivegreen;
+    color:white;
+    text-align: center;
+    padding: 150px;  
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+footer{
+    text-align: center;
+    background-color: khaki;
+    color: black;
+    padding: 20px;  
+    margin-top: 5px;
+    border: 1px solid black;
+}
+a.home:hover{
+    color:red;
+}
+a.about:hover{
+    color:red;
+}
+a.services:hover{
+    color:red;
+}
+a.contact:hover{
+    color:red;
+}
+
+
